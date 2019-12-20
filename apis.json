@@ -1,0 +1,44 @@
+{
+    "name": "UsefulFeedback",
+    "description": "Complaint Management Solutions and complaints handling software - user friendly and scalable feedback management solutions optimised for your business.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1073-usefulfeedback.jpg",
+    "tags": [
+        "feedback",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/usefulfeedback\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "UsefulFeedback",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1073-usefulfeedback.jpg",
+            "humanURL": "http:\/\/www.usefulfeedback.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/usefulfeedback-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/usefulfeedback-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/usefulfeedback"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.usefulfeedback.com\/"
+        }
+    ]
+}
